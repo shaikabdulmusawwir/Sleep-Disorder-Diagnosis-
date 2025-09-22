@@ -1,11 +1,11 @@
 # Sleep-Disorder-Diagnosis-
 The Sleep_health_and_lifestyle_dataset.csv contains information collected from a diverse group of individuals to understand how lifestyle and physical health affect sleep quality and potential sleep disorders.
 Sleep Disorder Diagnosis Using Machine Learning
-📌 Project Overview
+ Project Overview
 
 This project focuses on predicting sleep disorders using health and lifestyle data through machine learning techniques. The dataset used comprises various health indicators and lifestyle habits that may influence or reflect an individual's sleep quality. The goal is to help diagnose conditions like sleep apnea and insomnia based on readily available personal data, enabling early detection and promoting better sleep health.
 
-📊 Dataset Description (250 words)
+Dataset Description (250 words)
 
 The Sleep_health_and_lifestyle_dataset.csv contains information collected from a diverse group of individuals to understand how lifestyle and physical health affect sleep quality and potential sleep disorders. The dataset includes 374 entries with features such as Age, Gender, BMI Category, Blood Pressure, Sleep Duration, Physical Activity Level, Stress Level, Heart Rate, Daily Steps, Occupation, and Smoking/Alcohol habits.
 
